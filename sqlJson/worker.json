@@ -1,0 +1,62 @@
+[
+  {
+    "name": "John Doe",
+    "birthday": "1995-02-10",
+    "level": "Trainee",
+    "salary": 800
+  },
+  {
+    "name": "Jane Doe",
+    "birthday": "1990-08-20",
+    "level": "Junior",
+    "salary": 1200
+  },
+  {
+    "name": "Bob Johnson",
+    "birthday": "1985-05-15",
+    "level": "Middle",
+    "salary": 3000
+  },
+  {
+    "name": "Alice Lee",
+    "birthday": "1980-03-25",
+    "level": "Senior",
+    "salary": 5000
+  },
+  {
+    "name": "John Karmak",
+    "birthday": "1992-12-01",
+    "level": "Middle",
+    "salary": 3000
+  },
+  {
+    "name": "Emily Brown",
+    "birthday": "1988-07-12",
+    "level": "Junior",
+    "salary": 1500
+  },
+  {
+    "name": "Gabe Newell",
+    "birthday": "1983-01-05",
+    "level": "Senior",
+    "salary": 6000
+  },
+  {
+    "name": "Linda Chen",
+    "birthday": "1998-06-30",
+    "level": "Trainee",
+    "salary": 900
+  },
+  {
+    "name": "David Kim",
+    "birthday": "1991-09-03",
+    "level": "Middle",
+    "salary": 2800
+  },
+  {
+    "name": "Lisa Su",
+    "birthday": "1986-11-22",
+    "level": "Senior",
+    "salary": 6000
+  }
+]
