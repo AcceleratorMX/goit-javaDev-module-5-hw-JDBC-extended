@@ -12,6 +12,7 @@ import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
+
 public class DatabasePopulateService {
     private static final String WORKER = "sqlJson/worker.json";
     private static final String CLIENT = "sqlJson/client.json";
